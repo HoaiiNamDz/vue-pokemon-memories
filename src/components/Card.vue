@@ -13,7 +13,7 @@
             </div>
             <div class="card__face card__face--back">
                 <div class="card-content" 
-                    :style="{backgroundImage: `url(${'public/' + imgBackFaceUrl}`}"
+                    :style="{backgroundImage: `url(${'./src/assets/' + imgBackFaceUrl}`}"
                 ></div>
             </div>
         </div>
