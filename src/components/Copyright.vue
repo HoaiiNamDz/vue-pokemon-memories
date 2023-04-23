@@ -2,7 +2,7 @@
     <div class="copyright">
         <div class="container">
             <p class="text">This game owned by NHN</p>
-            <a href="" class="icon">
+            <a href="https://github.com/HoaiiNamDz" class="icon">
                 <i class="fa-brands fa-github"></i>
             </a>
         </div>
